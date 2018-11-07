@@ -7,7 +7,7 @@
 3. [03-第三次作业：溢出错误与精度误差等](hw03)
 4. [04-第四次作业：ASCII 码、Unicode 码、 utf-8 编码以及jpg、 png、tiff 格式等区别](hw04)
 5. [05-第五次作业：关于电路的问题，Boolean Expression，Logic Diagram Symbol,Truth table等](hw05)
-6. [06-第六次作业：](hw06)
+6. [06-第六次作业：电脑的基本组成，云计算，字符等等](hw06)
 7. [07-第七次作业：](hw07)
 
 ## 实验与实践
