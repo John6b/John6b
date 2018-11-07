@@ -53,7 +53,7 @@ Events & Actions ：胜利
 
 ## 一起来看看实验效果吧
 
-![](/images/成功.gif)
+![](/images/chenggong.gif)
 
-![](/images/失败.gif)
+![](/images/shibai.gif)
 
