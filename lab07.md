@@ -68,7 +68,7 @@ a+=W;
 ~~~
 # 实验结果1
 
-![](/images/qq2.jpg)
+![](images//qq2.jpg)
 
 # 实验步骤2
 
