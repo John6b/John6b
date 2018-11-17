@@ -4,7 +4,7 @@
 
 ## 案例分析
 
-![](/images/washer.jpg)
+![](images//washer.jpg)
 
 首先我们先确定一个大致的方向（大概要做哪些事情）
 ~~~
